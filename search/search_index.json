@@ -1,1 +1,1 @@
-{"config":{"lang":["ja","en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Placeholder","text":""}]}
+{"config":{"lang":["ja","en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Placeholder","text":"<p>test</p>"},{"location":"content/test/","title":"Test","text":"<p>test</p>"}]}
