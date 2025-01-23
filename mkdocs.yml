@@ -15,16 +15,18 @@ theme:
     palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: dafault
+      primary: teal
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: teal
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
     features:
