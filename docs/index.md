@@ -1,6 +1,6 @@
 # 阴茎增大指南
 
-➡️ [原网站](https://penis-enlargement-manual.thundersplace.org) ⬅️
+[原网站](https://penis-enlargement-manual.thundersplace.org)
 
 ---
 
@@ -120,7 +120,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 
 ## 附录
 
-### 汤姆·哈伯德的阴茎增大研讨会
+### **汤姆·哈伯德的阴茎增大研讨会**
 
 汤姆的研究对阴茎增大的主题进行了深刻而明确的分析。他的材料档案主要集中于设备领域，但也涵盖了其他相关方面。
 
@@ -130,7 +130,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - **2002年**
 - **2003年**
 
-### 其他资源
+### **其他资源**
 
 提供了一些真实案例，展示阴茎增大的效果，并展开了相关讨论。
 
