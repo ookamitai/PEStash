@@ -42,17 +42,17 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 ### **阴茎解剖学**  
 了解阴茎及相关解剖结构有助于更有效地针对增大练习，降低风险。
 
-- **定位BC肌肉**  
+- [**定位BC肌肉**](PenisAnatomy/locating-the-bc-muscle.md)   
     本节探讨骨盆底肌（BC肌）的解剖基础，该肌肉为凯格尔运动（kegel）的核心，用于增强勃起强度并支持其他增大练习。
 
 ### **手动阴茎增大练习**  
-- **JAI拉伸**  
+- [**JAI拉伸**](ManualExercises/JAIStrech.md)  
     Johan的主动隔离拉伸法，运用一种常见的运动技巧避免BC肌的反弹反射。
 
-- **V形拉伸**  
+- [**V形拉伸**](ManualExercises/VStretch.md)  
     使用双手操控阴茎张力梯度的拉伸练习，有助于增加局部张力。
         
-- **Fowfer拉伸**  
+- [**Fowfer拉伸**](ManualExercises/Fowfer.md)  
     一种 _可能_ 增加松弛长度的拉伸练习。
 
 - **挤压法（Jelq 和 Jelqing）**  
