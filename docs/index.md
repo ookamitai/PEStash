@@ -2,6 +2,8 @@
 
 [原网站](https://penis-enlargement-manual.thundersplace.org)
 
+**如果你感觉我们翻译的内容对你有帮助的话，请到 [GitHub 页面](https://github.com/ookamitai/PEStash/) 上为我们点一个 Star ⭐ 。你的 Star ⭐ 就是我们更新的动力，谢谢！**
+
 ---
 
 ## 译者按 **(必读)**
@@ -62,7 +64,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - [**挤压法（Jelq 和 Jelqing）**](ManualExercises/Jelq.md)  
     一种简单却非常有效的方法，用于增加长度和粗度，同时改善阴茎健康。精通技术细节并持续改进是关键。
 
-- **Sadsak头部练习**  
+- [**Sadsak头部练习**](ManualExercises/Sadsak.md)  
     针对龟头尺寸的练习。
 
 - **Sadsak Slinky**  
