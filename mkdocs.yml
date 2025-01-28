@@ -40,6 +40,7 @@ theme:
         - navigation.feedback
 
     icon:
+        logo: material/hand-wave
         repo: fontawesome/brands/github
 
     # logo: images/image.ico

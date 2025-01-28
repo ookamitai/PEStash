@@ -55,3 +55,7 @@ blockquote {
     border-width: 1px !important;
     filter: brightness(0.95);
 }
+
+.md-header__topic {
+    font-weight: bold;
+}
