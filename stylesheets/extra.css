@@ -4,13 +4,13 @@
     --md-primary-fg-color--dark:  #3782d2;
 }
 
-.md-typeset a[href^="http://"]:not([href*="yourdomain.com"]),
-.md-typeset a[href^="https://"]:not([href*="yourdomain.com"]) {
+.md-typeset a[href^="http://"]:not([href*="ookamitai.com"]),
+.md-typeset a[href^="https://"]:not([href*="ookamitai.com"]) {
     position: relative;
 }
 
-.md-typeset a[href^="http://"]:not([href*="yourdomain.com"])::after,
-.md-typeset a[href^="https://"]:not([href*="yourdomain.com"])::after {
+.md-typeset a[href^="http://"]:not([href*="ookamitai.com"])::after,
+.md-typeset a[href^="https://"]:not([href*="ookamitai.com"])::after {
     content: "↗";
     font-size: 0.8em;
     margin-left: 0.2em;
@@ -20,4 +20,27 @@
 .md-typeset img {
     display: block;
     margin: 0 auto;
-  }
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-weight: bold !important;
+}
+
+.md-typeset h1 {
+    color: rgb(220, 220, 220);
+}
+
+.warn {
+    text-shadow: rgba(255, 0, 0, 0.5) 5px 0 20px;
+    color: red;
+    font-weight: bold;
+}
+
+blockquote {
+    background-color: rgba(0, 0, 0, 0.3);  /* Light gray background */
+    padding: 10px 15px;          /* Padding around the quote */
+    margin: 15px 0;              /* Space above and below the quote */
+    color: rgba(226, 228, 233, 0.82) !important;
+    border-left-width: 0px !important;
+    border-radius: 5px;
+}
