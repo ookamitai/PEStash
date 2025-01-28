@@ -26,21 +26,32 @@
     font-weight: bold !important;
 }
 
+[data-md-color-scheme="default"] {
+    --custom-heading-color: #1f1f1f; 
+    --custom-border-color: rgba(31, 31, 31, 0.1);
+}
+
+[data-md-color-scheme="slate"] {
+    --custom-heading-color: #e7e7e7; 
+    --custom-border-color: rgba(231, 231, 231, 0.3);
+}
+
 .md-typeset h1 {
-    color: rgb(220, 220, 220);
+    color: var(--custom-heading-color);
 }
 
 .warn {
-    text-shadow: rgba(255, 0, 0, 0.5) 5px 0 20px;
+    text-shadow: rgba(255, 0, 0, 0.5) 0 0 10px;
     color: red;
     font-weight: bold;
 }
 
 blockquote {
-    background-color: rgba(0, 0, 0, 0.3);  /* Light gray background */
-    padding: 10px 15px;          /* Padding around the quote */
-    margin: 15px 0;              /* Space above and below the quote */
-    color: rgba(226, 228, 233, 0.82) !important;
-    border-left-width: 0px !important;
-    border-radius: 5px;
+    padding: 10px 15px;
+    color: var(--md-typeset-color) !important;
+    border-radius: 4px;
+    border: solid !important;
+    border-color: var(--custom-border-color) !important;
+    border-width: 1px !important;
+    filter: brightness(0.95);
 }
