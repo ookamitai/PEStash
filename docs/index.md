@@ -67,7 +67,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - [**Sadsak头部练习**](ManualExercises/Sadsak.md)  
     针对龟头尺寸的练习。
 
-- **Sadsak Slinky**  
+- [**Sadsak Slinky**](ManualExercises/SadsakSlinky.md)  
     一种通过类似“弹簧玩具”的方式弯曲阴茎的高级粗度练习。
 
 ### **手动阴茎增大方案**  
