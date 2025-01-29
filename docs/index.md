@@ -2,11 +2,13 @@
 
 [原网站](https://penis-enlargement-manual.thundersplace.org)
 
+**如果你感觉我们翻译的内容对你有帮助的话，请到 [GitHub 页面](https://github.com/ookamitai/PEStash/) 上为我们点一个 Star ⭐ 。你的 Star ⭐ 就是我们更新的动力，谢谢！**
+
 ---
 
 ## 译者按 **(必读)**
 
-<span style="color:crimson">对于因翻译错误或疏漏所导致的任何直接、间接、附带或衍生的损失、损害或其他后果，本机构概不承担任何责任。用户应自行验证翻译内容的准确性和完整性。本声明在适用法律允许的最大范围内生效。</span>
+<span class="warn">对于因翻译错误或疏漏所导致的任何直接、间接、附带或衍生的损失、损害或其他后果，本机构概不承担任何责任。用户应自行验证翻译内容的准确性和完整性。本声明在适用法律允许的最大范围内生效。</span>
 
 ## 前言
 
@@ -31,11 +33,11 @@
 
 ## 引言
 
-<span style="color:crimson">本手册包含具有教育性质的成人内容。本网站已标注相关信息，以便家长过滤工具进行屏蔽。如果您对成人话题、裸露或阴茎图片感到容易冒犯，请立即离开本网站。</span>
+<span class="warn">本手册包含具有教育性质的成人内容。本网站已标注相关信息，以便家长过滤工具进行屏蔽。如果您对成人话题、裸露或阴茎图片感到容易冒犯，请立即离开本网站。</span>
 
 Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-videos.thundersplace.org)并未直接存放于本网站，但在多个页面中提供了相关链接。
 
-如果您是新手，建议加入我们的[阴茎增大论坛](https://thunders.place)，在那里可以获得有实际经验者的建议。需要注意的是，阴茎增大可能会导致<span style="color:crimson">**永久性损伤**</span>，使用本手册中描述的技巧需自担风险。为了尽量降低风险，在开始制定计划之前，请尽可能多地阅读本手册以及其他相关资料。
+如果您是新手，建议加入我们的[阴茎增大论坛](https://thunders.place)，在那里可以获得有实际经验者的建议。需要注意的是，阴茎增大可能会导致<span class="warn">永久性损伤</span>，使用本手册中描述的技巧需自担风险。为了尽量降低风险，在开始制定计划之前，请尽可能多地阅读本手册以及其他相关资料。
 
 本手册由多位作者共同撰写。尽管部分内容在撰写过程中经过同行评审，并组织成一个连贯的整体，但也有一些内容是单个作者的独立作品，应根据其特性来理解和阅读。本手册的许多章节包含了这些技巧实际应用的示例。
 
@@ -59,13 +61,13 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - [**Fowfer拉伸**](ManualExercises/Fowfer.md)  
     一种 _可能_ 增加松弛长度的拉伸练习。
 
-- **挤压法（Jelq 和 Jelqing）**  
+- [**挤压法（Jelq 和 Jelqing）**](ManualExercises/Jelq.md)  
     一种简单却非常有效的方法，用于增加长度和粗度，同时改善阴茎健康。精通技术细节并持续改进是关键。
 
-- **Sadsak头部练习**  
+- [**Sadsak头部练习**](ManualExercises/Sadsak.md)  
     针对龟头尺寸的练习。
 
-- **Sadsak Slinky**  
+- [**Sadsak Slinky**](ManualExercises/SadsakSlinky.md)  
     一种通过类似“弹簧玩具”的方式弯曲阴茎的高级粗度练习。
 
 ### **手动阴茎增大方案**  
