@@ -4,6 +4,8 @@
 
 **如果你感觉我们翻译的内容对你有帮助的话，请到 [GitHub 页面](https://github.com/ookamitai/PEStash/) 上为我们点一个 Star ⭐ 。你的 Star ⭐ 就是我们更新的动力，谢谢！**
 
+**我们的翻译尚不完全，如果你能提交一份含有更多的翻译的 Pull Request，我们将不胜感激！**
+
 ---
 
 ## 译者按 **(必读)**
@@ -77,8 +79,10 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - [**Sizemeister方案**](ManualRoutines/Sizemeister.md)  
     包括两个强度较大的方案，第一个基于悬挂练习，第二个完全手动的增加粗度方案。
 
-- **Ulistretch方案**  
+- [**Ulistretch方案**](ManualRoutines/Ulistretch.md)   
     一种粗度方案，并描述了Uli#3练习的细节。
+
+- [**Bib 的 Uli 工具**](ManualRoutines/BibUli.md)
 
 ### **机械阴茎增大技术**  
 - [**快速入门指南**](Mechanical_Penis_Enlargement_Techniques/A_Quickstart_Guide_to_Mechanical_Penis_Enlargement.md)

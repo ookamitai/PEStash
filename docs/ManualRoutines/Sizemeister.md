@@ -83,3 +83,14 @@ Jelq 手法 #2：
 
 虽然我只进行了几周，但我已经注意到**疲软状态**下的显著变化！
 
+---
+
+**相关链接：**
+
+[湿式 Jelq / 分步教学](https://free-penis-enlargement-videos.thundersplace.org/wet-jelq.html)
+
+[干式 Jelq / 分步教学](http://free-penis-enlargement-videos.thundersplace.org/dry-jelq.html)
+
+[如何 Jelq](../ManualExercises/Jelq.md)
+
+[Uli 增大方案](./Ulistretch.md)
