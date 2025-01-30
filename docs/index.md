@@ -57,7 +57,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 
 - [**V形拉伸**](ManualExercises/VStretch.md)  
     使用双手操控阴茎张力梯度的拉伸练习，有助于增加局部张力。
-        
+    
 - [**Fowfer拉伸**](ManualExercises/Fowfer.md)  
     一种 _可能_ 增加松弛长度的拉伸练习。
 
@@ -85,8 +85,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 
 - [**悬挂法**](Mechanical_Penis_Enlargement_Techniques/Hanging.md)  
     初学者不宜直接开始的练习，但本指南可帮助从手动练习安全过渡到悬挂练习。悬挂需借助设备对阴茎施加短时高负载。
-
-    - **悬挂、粗度和牵引中的包裹技术**  
+- [**悬挂、粗度和牵引中的包裹技术**](Mechanical_Penis_Enlargement_Techniques/Wrapping_for_Hanging.md)  
         包裹技术是悬挂的必要组成部分，掌握此技能是成功的关键。
     
     - **Captain’s Wench装置**  
@@ -94,7 +93,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
     
     - **Bib Hanger**  
         第一款摒弃套索式设计的现代悬挂器，有效减少损伤风险，可在家自制或购买商业衍生产品。
-
+    
 - **牵引法**  
     大多数商业阴茎增大设备（如Jes Extender和Penimaster）价格高且危险。
 
