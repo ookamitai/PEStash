@@ -71,10 +71,10 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
     一种通过类似“弹簧玩具”的方式弯曲阴茎的高级粗度练习。
 
 ### **手动阴茎增大方案**  
-- **新手方案**  
+- [**新手方案**](ManualRoutines/Newbie.md)  
     适合初学者的入门方案，可根据不同水平调整。
 
-- **Sizemeister方案**  
+- [**Sizemeister方案**](ManualRoutines/Sizemeister.md)  
     包括两个强度较大的方案，第一个基于悬挂练习，第二个完全手动的增加粗度方案。
 
 - **Ulistretch方案**  
