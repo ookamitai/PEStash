@@ -17,6 +17,12 @@
     vertical-align: top;
 }
 
+.md-typeset a[href^="http://"]:not([href*="ookamitai.com"]):hover,
+.md-typeset a[href^="https://"]:not([href*="ookamitai.com"]):hover {
+    color: goldenrod;
+}
+
+
 .md-typeset img {
     display: block;
     margin: 0 auto;
