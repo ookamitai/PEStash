@@ -19,7 +19,7 @@
 
 .md-typeset a[href^="http://"]:not([href*="ookamitai.com"]):hover,
 .md-typeset a[href^="https://"]:not([href*="ookamitai.com"]):hover {
-    color: goldenrod;
+    color: goldenrod !important;
 }
 
 
