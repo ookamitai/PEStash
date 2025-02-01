@@ -65,3 +65,8 @@ blockquote {
 .md-header__topic {
     font-weight: bold;
 }
+
+.thunder {
+    font-weight: bold;
+    font-size: 50px !important;
+}

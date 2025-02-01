@@ -2,6 +2,10 @@
 
 [原网站](https://penis-enlargement-manual.thundersplace.org)
 
+<center>
+    <span class="thunder">Thunder's</span> <span class="thunder" style="opacity:0.5"> Place</span>
+</center>
+
 **如果你感觉我们翻译的内容对你有帮助的话，请到 [GitHub 页面](https://github.com/ookamitai/PEStash/) 上为我们点一个 Star ⭐ 。你的 Star ⭐ 就是我们更新的动力，谢谢！**
 
 **我们的翻译尚不完全，如果你能提交一份含有更多的翻译的 Pull Request，我们将不胜感激！**
@@ -53,6 +57,9 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - [**定位BC肌肉**](PenisAnatomy/locating-the-bc-muscle.md)   
     本节探讨骨盆底肌（BC肌）的解剖基础，该肌肉为凯格尔运动（kegel）的核心，用于增强勃起强度并支持其他增大练习。
 
+- [**如何让你的丁丁看起来更大**](Misc/LookBigger.md)  
+    具有欺骗性的网络。
+
 ### **手动阴茎增大练习**  
 - [**JAI拉伸**](ManualExercises/JAIStrech.md)  
     Johan的主动隔离拉伸法，运用一种常见的运动技巧避免BC肌的反弹反射。
@@ -89,7 +96,8 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 
 - [**悬挂法**](Mechanical_Penis_Enlargement_Techniques/Hanging.md)  
     初学者不宜直接开始的练习，但本指南可帮助从手动练习安全过渡到悬挂练习。悬挂需借助设备对阴茎施加短时高负载。
-- [**悬挂、粗度和牵引中的包裹技术**](Mechanical_Penis_Enlargement_Techniques/Wrapping_for_Hanging.md)  
+
+    - [**悬挂、粗度和牵引中的包裹技术**](Mechanical_Penis_Enlargement_Techniques/Wrapping_for_Hanging.md)  
         包裹技术是悬挂的必要组成部分，掌握此技能是成功的关键。
     
     - **Captain’s Wench装置**  
@@ -112,7 +120,7 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
 - **极限Uli练习和夹法**  
     机械化的Uli#3练习，传统方法需要使用软管夹并配以缓冲，较新方法采用电缆夹。
     
-    - **Uli设备**  
+    - [**Uli设备**](Mechanical_Penis_Enlargement_Techniques/BibUli.md)  
         Bib设计的一种保护阴茎免受软管夹伤害的装置。
 
     - **夹法101**  
@@ -128,6 +136,8 @@ Thunder’s Place 的[阴茎增大教程视频](https://free-penis-enlargement-v
         一种商业挤压设备，本文介绍了可在家中制作的等效工具。
 
 ## 附录
+
+<h3 class="warn">我们并没有打算翻译这个（</h3>
 
 ### **汤姆·哈伯德的阴茎增大研讨会**
 
